@@ -9,4 +9,8 @@ A Raspberry Pi-based Building Management System (BMS) for monitoring and control
 - **Event Logging:** Maintains a timestamped log of all system events in `log.txt`.
 - **LCD Display:** Continuously shows system status and event notifications.
 
+## System Overview
+
+![Assignment5](Assignment5.jpg)
+
 **Safety Note:** Only use low voltage/current circuits and never work with mains electricity. Always check for potential shorts before powering the Raspberry Pi.
